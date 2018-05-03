@@ -1,0 +1,13 @@
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\bin\Debug\PH Name Calculator.exe.config
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\bin\Debug\PH Name Calculator.exe
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\bin\Debug\PH Name Calculator.pdb
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH_Name_Calculator.Prohardver.resources
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH_Name_Calculator.Properties.Resources.resources
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.csproj.GenerateResource.Cache
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.exe
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.pdb
+D:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH_Name_Calculator.MadeBy.resources
+D:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH_Name_Calculator.Settings.resources
+d:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.csproj.CoreCompileInputs.cache
+D:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.csprojResolveAssemblyReference.cache
+D:\Mindenes\Programozas\C#\Windows Forms\PH Name Calculator\PH Name Calculator\obj\Debug\PH Name Calculator.csproj.CopyComplete
